@@ -23,9 +23,9 @@
  */
 
 /* Configuration! ---------------------------------------------------------------------*/
-define('CLIENT_ID',  "26148f04d10c418a832d10dd30e6f5f9");	//Your Client ID
-define('TYPESEARCH', "tags");								//Search type: tags / users
-define('TARGET',     "italia");								//Target hashtag or user
+define('CLIENT_ID',  "****************************************");	//Your Client ID
+define('TYPESEARCH', "tags");						//Search type: tags / users
+define('TARGET',     "italia");						//Target hashtag or user
 /*-------------------------------------------------------------------------------------*/
 
 
